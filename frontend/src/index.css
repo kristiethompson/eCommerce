@@ -1,1 +1,4 @@
-
+main {
+  /* vh is viewport heights */
+  min-height: 8vh;
+}
