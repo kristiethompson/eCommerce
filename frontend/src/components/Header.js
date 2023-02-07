@@ -1,6 +1,8 @@
 import React from 'react'
 import { Navbar, Nav, Container } from 'react-bootstrap'
 
+//https://react-bootstrap.github.io/components/ is where NavBar code is found
+
 const Header = () => {
   return (
     <header>
